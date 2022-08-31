@@ -1,4 +1,2 @@
 #!/bin/bash
-0 string 'SCHOOL' school
-!:mime application/octet-stream
 file -C -m school.mgc
