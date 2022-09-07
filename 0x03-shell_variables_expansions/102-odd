@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'n;d'
+sed -n '1~2 p'
