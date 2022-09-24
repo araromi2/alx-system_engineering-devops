@@ -12,7 +12,8 @@
 - LTS
 
 ## Contents and Descriptions
-| <div style="width:20%">File </div> | <div style="width:80%">Description</div> | Link 
+| <div style="width:10%">File</div> | <div style="width:80%">Description</div>
+| <div style="width:10%">Link</div> 
 | ----- | ----- | -----
 | `0-current_working_directory` | A script that prints the absolute path name of
 the current working directory | [Cwd](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
