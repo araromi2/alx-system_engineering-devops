@@ -15,19 +15,15 @@
 | File | Description | Link 
 | ----- | ----- | -----
 | `0-current_working_directory` | A script that prints the absolute path name of
-the current working directory | [Current working
-directory](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
-| `1-listit` | Display the contents list of your current directory | [List
-it](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
+the current working directory | [Cwd](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
+| `1-listit` | Display the contents list of your current directory | [Li](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
 |`2-bring_me_home` | Changes the working directory to the user's home directory
 | [Bring me home](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/2-bring_me_home)
-| `3-listfiles` | Display Current directory contents in a long format | [List
-files](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/3-listfiles)
+| `3-listfiles` | Display Current directory contents in a long format | [Lf](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/3-listfiles)
 | `4-listmorefiles` | Display current directory contents, including hidden files
 (starting with `.`) using the long format |[List more files](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)
 | `5-listfilesdigitonly` | Display current directory contents; long format, with
-user and group IDs displayed numerically and hidden files | [List files digit
-only](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
+user and group IDs displayed numerically and hidden files | [List filesdigit](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
 |`6-firstdirectory` | Creates a directory named `my_first_directory` in the
 `/tmp/` directory | [First Directory](https://github.com/araromi2/alx-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory)
 | `7-movethatfile` | Move the file `betty` from `/tmp/` to
