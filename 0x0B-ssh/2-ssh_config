@@ -1,9 +1,0 @@
-Host *
-  PasswordAuthentication no
-
-Host school
-  Hostname 52.205.88.16
-  User ubuntu
-  IdentityFile ~/.ssh/school
-  PasswordAuthentication no
-  PreferredAuthentications publickey
