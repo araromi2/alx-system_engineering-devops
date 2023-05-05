@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+# Print the result of pinging an IP 5 times
 if [ ! "$1" ]
 then
    echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
